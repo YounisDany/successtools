@@ -11,12 +11,12 @@
 --------------------------------------------------------------*/
 body {
   background: #fff;
-  color: #9BDDAD;
+  color: #444;
   font-family: "Tajawal", sans-serif;
 }
 
 a {
-  color: #1bdc9c;
+  color: #2cdaa5;
   text-decoration: none;
   transition: 0.5s;
 }
